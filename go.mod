@@ -1,4 +1,4 @@
-module github.com/mailgun/mailgun-go/v4
+module github.com/xiatechs/mailgun-go/v4
 
 go 1.13
 
